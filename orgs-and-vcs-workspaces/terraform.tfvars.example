@@ -1,0 +1,9 @@
+tfe_token          = ""
+hostname           = "app.terraform.io"
+org_base_name      = "boring-test-org"
+# a Gitlab personal access token with the "API" scope
+gitlab_token        = ""
+organization_count = "4"
+workspace_count    = "2"
+gitlab_repo               = "boring-test-org/boring-test-project"
+gitlab_branch             = "main"
