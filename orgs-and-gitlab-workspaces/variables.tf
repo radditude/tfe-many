@@ -10,7 +10,7 @@ variable "org_base_name" {
   type = string
 }
 
-variable "team_base_name" {
+variable "gitlab_token" {
   type = string
 }
 
@@ -18,18 +18,14 @@ variable "organization_count" {
   type = number
 }
 
-variable "team_count" {
+variable "workspace_count" {
   type = number
 }
 
-variable "user_count" {
-  type = number
-}
-
-variable "email_base" {
+variable "gitlab_repo" {
   type = string
 }
 
-variable "email_domain" {
+variable "gitlab_branch" {
   type = string
 }

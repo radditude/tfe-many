@@ -1,0 +1,4 @@
+tfe_token          = "cjhorton"
+hostname           = "tfe-zone-ed19600e.ngrok.io"
+organization_name      = "boring-test-org"
+workspace_count    = "2"

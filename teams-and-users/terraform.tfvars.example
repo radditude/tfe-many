@@ -1,9 +1,9 @@
 tfe_token          = ""
 hostname           = "app.terraform.io"
-org_base_name      = "boring-test-org"
+org_base_name      = "teams-and-users"
+team_base_name     = "my-team"
 email_base         = "yourname"
 email_domain       = "domain.com"
-organization_count = "4"
-workspace_count    = "2"
-team_count         = "2"
-org_member_count   = "3"
+organization_count = 1
+team_count         = 2
+user_count   = 2
