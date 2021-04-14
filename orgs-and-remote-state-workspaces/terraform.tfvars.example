@@ -1,0 +1,9 @@
+tfe_token                 = ""
+hostname                  = "app.terraform.io"
+org_base_name             = "boring-test-org"
+# a Github personal access token with the repo and repo_hook scopes
+github_token              = ""
+organization_count        = "4"
+workspace_count           = "2"
+github_repo               = "boring-test-org/boring-test-project"
+github_branch           = "main"
